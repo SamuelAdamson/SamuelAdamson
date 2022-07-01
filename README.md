@@ -1,6 +1,6 @@
 ### "A dropout will beat a genius through hard work." - Rock Lee
 <strong> My name is Samuel Adamson. I write code and lift weights. </strong> <br>
-I am an undergraduate computer science student from Colorado, US. I have experience in both data engineering and software engineering across multiple industries. As my career unfodls, I want to progress and contribute to the fields of <strong>Artificial Intelligence</strong> and <strong>Machine Learning.</strong> <br>
+I am an undergraduate computer science student from Colorado, US. I have experience in both data engineering and software engineering across multiple industries. As my career unfolds, I want to progress and contribute to the fields of <strong>Artificial Intelligence</strong> and <strong>Machine Learning.</strong> <br>
 
 <strong> Work Experience </strong>
 * Software Engineer Intern @ MITRE Corporation - Cluster Computing Scheduling/Reporting/Analytics [Summer 2022]
