@@ -8,7 +8,7 @@ I am an undergraduate computer science student from Colorado, US. I have experie
 * Information Technology Intern @ Grand Mesa Software - Network Management/Security [May 2020 - May 2021] <br>
 
 <strong>Working On...</strong> <br>
-At the moment I am building a [Minesweeper Web Application](https://github.com/SamuelAdamson/minesweeper-web-app) using typescript, react, and next. framework. In this application I am conducting empirical analysis to determine the efficiency of breadth-first search vs depth-first search when implemented in game. Additionally, I am working to improve my interview question skills from [zero to hero](https://github.com/SamuelAdamson/zero-to-hero). <br>
+At the moment I am building a [Minesweeper Web Application](https://github.com/SamuelAdamson/minesweeper-web-app) using typescript, react, and next. In this application I am conducting empirical analysis to determine the efficiency of breadth-first search vs depth-first search when implemented in game. Additionally, I am working to improve my interview question skills from [zero to hero](https://github.com/SamuelAdamson/zero-to-hero). <br>
 
 
 :computer: Visit my portfolio website - https://samueladamson.github.io/#/ <br>
