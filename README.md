@@ -4,7 +4,7 @@ I am an undergraduate computer science student from Colorado, US. I have experie
 
 <strong> Work Experience </strong>
 * Software Engineer Intern @ J.P. Morgan Chase [Summer 2023]
-* Software Egnineer Intern @ Carrier [Spring 2023]
+* Software Engineer Intern @ Carrier [Spring 2023]
 * Software Engineer Intern @ MITRE Corporation - Cluster Computing Scheduling/Reporting/Analytics [May 2022 - Present]
 * Data Engineer @ Monument Health - ETL Pipeline Development/Automation in GCP [May 2021 - May 2022]
 * Information Technology Intern @ Grand Mesa Software - Network Management/Security [May 2020 - May 2021] <br>
