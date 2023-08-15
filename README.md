@@ -1,6 +1,6 @@
 ### "A dropout will beat a genius through hard work." - Rock Lee
-<strong> My name is Samuel Adamson. I write code and climb rocks (indoors mostly). </strong> <br>
-I am an undergraduate computer science student from Colorado, US. I have experience in both data engineering and software engineering across multiple industries. As my career unfolds, I want to contribute to the fields of <strong>Artificial Intelligence</strong> and <strong>Machine Learning.</strong> <br>
+<strong> My name is Samuel Adamson. I write code and lift weights. </strong> <br>
+I am an undergraduate computer science student from Colorado, US. I have experience in both software engineering and data engineering across multiple industries. In my career I want to make meaningful contributions to __Cloud Computing__ platform development. <br>
 
 <strong> Work Experience </strong>
 * Software Engineer Intern @ J.P. Morgan Chase - Cloud Computing/LLM Cost Surveillance/Full Stack Development [June 2023 - August 2023]
