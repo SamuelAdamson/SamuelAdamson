@@ -3,7 +3,7 @@
 I am an undergraduate computer science student from Colorado, US. I have experience in both data engineering and software engineering across multiple industries. As my career unfolds, I want to contribute to the fields of <strong>Artificial Intelligence</strong> and <strong>Machine Learning.</strong> <br>
 
 <strong> Work Experience </strong>
-* Software Engineer Intern @ J.P. Morgan Chase - Cloud Computing/LLM Cost Surveillance/Full Stack Development [June 5, 2023 - August 11, 2023]
+* Software Engineer Intern @ J.P. Morgan Chase - Cloud Computing/LLM Cost Surveillance/Full Stack Development [June 2023 - August 2023]
 * Software Engineer Intern @ Carrier - [HVAC Hourly Analysis Application](https://www.carrier.com/commercial/en/us/software/hvac-system-design/hourly-analysis-program/)/gbXML 3D Data Parsing and Modeling [January 2023 - May 2023]
 * Software Engineer Intern @ MITRE Corporation - Cluster Computing/Full Stack Development/Analytics [May 2022 - January 2023]
 * Data Engineer @ Monument Health - ETL Pipeline Development/Automation in GCP [May 2021 - May 2022]
