@@ -16,4 +16,3 @@ Currently I am rebuilding my [portfolio page](https://github.com/SamuelAdamson/p
 :computer: Visit my portfolio website - https://samueladamson.github.io/ <br>
 :speech_balloon: Connect with me on LinkedIn - https://www.linkedin.com/in/samuel-adamson-cs/ <br>
 :mailbox: Reach me by email - sadamson@uccs.edu <br>
-:movie_camera: Check out my [Youtube](https://www.youtube.com/channel/UC4nZnhi_pEXX9mt1G2cZyVA) or [Instagram](https://www.instagram.com/giibb4/) <br>
