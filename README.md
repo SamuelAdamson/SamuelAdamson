@@ -14,6 +14,6 @@ I am an undergraduate computer science student from Colorado, US. I have experie
 Currently, I am settling into my new role as a full time software engineer. I am trying to improve my technical skills with public cloud technologies - I am studying for the [AWS Cloud Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) exam.
 
 
-:computer: Visit my portfolio website - https://samueladamson.github.io/ (revamped portfolio coming in 2025) <br>
+:computer: Visit my portfolio website - https://samueladamson.github.io/ (updated portfolio coming soon) <br>
 :speech_balloon: Connect with me on LinkedIn - https://www.linkedin.com/in/samuel-adamson-cs/ <br>
 :mailbox: Reach me by email - sadamson@uccs.edu <br>
