@@ -11,7 +11,7 @@ I am an undergraduate computer science student from Colorado, US. I have experie
 * Information Technology Intern @ Grand Mesa Software - Network Management/Security [May 2020 - May 2021] <br>
 
 <strong>Working On...</strong> <br>
-Currently, I am settling into my new role as a full time software engineer. I am trying to improve my technical skills with public cloud technologies - I am studying for the [AWS Cloud Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) exam.
+Currently, I am settling into my new role as a full time software engineer. I am improving my technical skills with public cloud technologies - I am studying for the [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) exam.
 
 
 :computer: Visit my portfolio website - https://samueladamson.github.io/ (updated portfolio coming soon) <br>
