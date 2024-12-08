@@ -16,4 +16,5 @@ Currently, I am settling into my new role as a full time software engineer. I am
 
 :computer: Visit my portfolio website - https://samueladamson.github.io/ (updated portfolio coming soon) <br>
 :speech_balloon: Connect with me on LinkedIn - https://www.linkedin.com/in/samuel-adamson-cs/ <br>
+:video_camera: Check out my youtube channel - https://www.youtube.com/@giibbu
 :mailbox: Reach me by email - sadamson@uccs.edu <br>
