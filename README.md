@@ -1,6 +1,7 @@
 ### "A dropout will beat a genius through hard work." - Rock Lee
-<strong> My name is Samuel Adamson. I write code and lift weights. </strong> <br>
-I am an undergraduate computer science student from Colorado, US. I have experience in both software engineering and data engineering across multiple industries. In my career I want to make meaningful contributions to __Cloud Computing__ platform development. <br>
+
+<strong> My name is Samuel Adamson. I build software, architect in the cloud, and lift weights. </strong> <br>
+I am a full-time software engineer from Colorado, USA. I have experience in both data engineering and software engineering roles - specializing in cloud infrastructure. During my career, I aim to make meaningful contributions to the cloud landscape. I compete in streetlifting and create content centered around calisthenics.
 
 <strong> Work Experience </strong>
 * Software Engineer @ JPMorgan Chase & Co. [August 2024 to Present]
@@ -11,7 +12,7 @@ I am an undergraduate computer science student from Colorado, US. I have experie
 * Information Technology Intern @ Grand Mesa Software - Network Management/Security [May 2020 - May 2021] <br>
 
 <strong>Working On...</strong> <br>
-Currently, I am settling into my new role as a full time software engineer. I am improving my technical skills with public cloud technologies - I am studying for the [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) exam.
+Currently, I am settling into my new role as a full-time software engineer (Aug 2024 start). I am focused on improving my knowledge of cloud technologies, thus I am studying for the [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) exam.
 
 
 :computer: Visit my portfolio website - https://samueladamson.github.io/ `(updated portfolio coming soon)` <br>
