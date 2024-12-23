@@ -1,7 +1,7 @@
 ### "A dropout will beat a genius through hard work." - Rock Lee
 
 <strong> My name is Samuel Adamson. I build software, architect in the cloud, and lift weights. </strong> <br>
-I am a full-time software engineer from Colorado, USA. I have experience in both data engineering and software engineering roles - specializing in cloud infrastructure. During my career, I aim to make meaningful contributions to the cloud landscape. I compete in streetlifting and create content centered around calisthenics.
+I am a full-time software engineer from Colorado, USA. I have experience in both data engineering and software engineering roles - specializing in cloud infrastructure. During my career, I aim to make meaningful contributions to the cloud landscape. I compete in [streetlifting](https://en.wikipedia.org/wiki/Street_workout#Streetlifting) and create content centered around calisthenics.
 
 <strong> Work Experience </strong>
 * Software Engineer @ JPMorgan Chase & Co. [August 2024 to Present]
