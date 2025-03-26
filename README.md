@@ -12,7 +12,7 @@ I am a software engineer from Colorado, USA. I have experience in both data engi
 * Information Technology Intern @ Grand Mesa Software - Network Management/Security [May 2020 - May 2021] <br>
 
 <strong>Working On...</strong> <br>
-Alongside my full-time position as a software engineer at JPMorganChase, I am focused on improving my knowledge of cloud technologies. thus I am studying for the [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) exam. I am also working on an assistive video replay software to add streetlifting judges in the validity of lifts, using ML powered keypoint detection.
+Alongside my full-time position as a software engineer at JPMorganChase, I am focused on improving my knowledge of cloud technologies. thus I am studying for the [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) exam. I am also working on an [assistive video replay software](https://github.com/SamuelAdamson/JudgeAssist) to add streetlifting judges in the validity of lifts, using ML powered keypoint detection.
 
 
 :computer: Visit my portfolio website - https://samueladamson.github.io/ `(updated portfolio coming soon)` <br>
